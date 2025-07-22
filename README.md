@@ -1,7 +1,5 @@
 <h1>Olá, eu sou o Pedro 👋 </h1>
 
----
-
 ### 👨‍💻 Sobre mim
 
 <div align="center">
