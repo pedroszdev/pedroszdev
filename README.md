@@ -39,20 +39,6 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|--------------|
-| [**Sistema de Estoque**](https://github.com/pedroszdev/Sistema-Estoque) | Controle simples de estoque com cadastro, busca e edição de produtos. | Python · JSON |
-| [**Verificador de CPF**](https://github.com/pedroszdev/VerificadorDeCPF) | Um sistema simples para verificar se um CPF está correto ou não. | Python |
-| [**Gerenciador de Tarefas**](https://github.com/pedroszdev/Gerenciador-de-Tarefas) | gerenciador de tarefas com python. | Python · Terminal |
-
-</div>
-
----
-
 ### 📫 Contato
 
 <div align="center">
