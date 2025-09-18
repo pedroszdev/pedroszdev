@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<p>Sou um desenvolvedor Full-Stack em formação com foco em desenvolvimento web, apaixonado por programação, tecnologia e aprendizado contínuo.  
+<p>Sou um desenvolvedor Back-End em formação com foco em desenvolvimento web, apaixonado por programação, tecnologia e aprendizado contínuo.  
 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou construindo uma base sólida com <strong>Python, Django, JavaScript, React e Node.js</strong>. </p>
 
 </div>
