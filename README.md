@@ -1,17 +1,16 @@
-<h1>Olá, eu sou o Pedro 👋 </h1>
+<h1>Hi, I'm Pedro 👋 </h1>
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
 <div align="center">
   
-<p>Sou um desenvolvedor Back-End em formação com foco em desenvolvimento web, apaixonado por programação, tecnologia e aprendizado contínuo.  
-Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou construindo uma base sólida com <strong>Python, Django, JavaScript, React e Node.js</strong>. </p>
+<p>I’m a full-stack developer specializing in Node.js. I currently work at Sou Vitória IA for Clinics and teach Systems Analysis and Development at the University of Southern Santa Catarina. My experience includes building SaaS systems and refactoring backends from Express to Nest.js to improve scalability. In addition, I develop AI agents to automate customer service and build integrated web interfaces using React. My main tech stack includes Node.js, TypeScript, NestJS, React, Prisma ORM, PostgreSQL, and Docker </p>
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <div align="center">
   
@@ -28,7 +27,7 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -39,7 +38,7 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou
 
 ---
 
-### 📫 Contato
+### 📫 Contact 
 
 <div align="center">
 
@@ -51,7 +50,7 @@ Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e estou
 
 ---
 
-### ✨ Vamos nos conectar!
+### ✨  Let’s get in touch!
 
-> Curtiu meu perfil? Me segue para acompanhar meus projetos! 😄
+> Like my profile? Follow me to keep up with my projects! 😄
 
